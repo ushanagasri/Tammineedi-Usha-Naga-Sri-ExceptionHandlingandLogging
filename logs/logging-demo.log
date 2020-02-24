@@ -1,0 +1,36 @@
+2020-02-24 12:23:16 INFO  App:12 - Hello,
+2020-02-24 12:23:16 INFO  App:16 - SimpleInterest is: 
+2020-02-24 12:23:16 INFO  App:17 - 1750.0
+2020-02-24 12:23:16 INFO  App:20 - CompoundInterest is: 
+2020-02-24 12:23:16 INFO  App:21 - 103455.266
+2020-02-24 12:23:16 INFO  App:23 - Enter Area ofthe house: 
+2020-02-24 12:23:20 INFO  App:25 - 1200INR if we use standard materials
+1500INR if we use above standard materials
+1800INR  for high standard material
+2500INR for high standard material and fully automated home
+
+2020-02-24 12:23:20 INFO  App:27 - Enter the type:
+1.standard
+2.Above standard
+3.High standard
+4.High standard and fully automated home
+
+2020-02-24 12:23:25 INFO  App:32 - 10164600:is the Cost for construction
+2020-02-24 12:43:20 INFO  App:12 - Hello,
+2020-02-24 12:43:20 INFO  App:16 - SimpleInterest is: 
+2020-02-24 12:43:20 INFO  App:17 - 1750.0
+2020-02-24 12:43:20 INFO  App:20 - CompoundInterest is: 
+2020-02-24 12:43:20 INFO  App:21 - 103455.266
+2020-02-24 12:43:20 INFO  App:23 - Enter Area ofthe house: 
+2020-02-24 12:43:25 INFO  App:25 - 1200INR if we use standard materials
+1500INR if we use above standard materials
+1800INR  for high standard material
+2500INR for high standard material and fully automated home
+
+2020-02-24 12:43:25 INFO  App:27 - Enter the type:
+1.standard
+2.Above standard
+3.High standard
+4.High standard and fully automated home
+
+2020-02-24 12:43:28 INFO  App:32 - 4165200:is the Cost for construction
